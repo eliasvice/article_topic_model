@@ -1,0 +1,106 @@
+<Subsidiary externalId="1840015" internalId="1">
+  <name>Vice Group Holding Inc.</name>
+  <isInactive>false</isInactive>
+  <showSubsidiaryName>false</showSubsidiaryName>
+  <url>www.vice.com</url>
+  <logo internalId="11">
+    <name>VICE.png</name>
+  </logo>
+  <pageLogo internalId="11">
+    <name>VICE.png</name>
+  </pageLogo>
+  <state>NY</state>
+  <country>_unitedStates</country>
+  <mainAddress>
+    <internalId>1</internalId>
+    <country>_unitedStates</country>
+    <addr1>55 Washington St</addr1>
+    <city>Brooklyn</city>
+    <state>NY</state>
+    <zip>11201`</zip>
+    <addrText>55 Washington St&amp;lt;br&amp;gt;Brooklyn NY 11201`&amp;lt;br&amp;gt;United States</addrText>
+    <override>false</override>
+  </mainAddress>
+  <shippingAddress>
+    <internalId>780</internalId>
+    <country>_unitedStates</country>
+    <addr1>55 Washington St</addr1>
+    <city>Brooklyn</city>
+    <state>NY</state>
+    <zip>11201</zip>
+    <addrText>55 Washington St&amp;lt;br&amp;gt;Brooklyn NY 11201&amp;lt;br&amp;gt;United States</addrText>
+    <override>false</override>
+  </shippingAddress>
+  <returnAddress>
+    <internalId>779</internalId>
+    <country>_unitedStates</country>
+    <addr1>55 Washington St</addr1>
+    <city>Brooklyn</city>
+    <state>NY</state>
+    <zip>11201</zip>
+    <addrText>55 Washington St&amp;lt;br&amp;gt;Brooklyn NY 11201&amp;lt;br&amp;gt;United States</addrText>
+    <override>false</override>
+  </returnAddress>
+  <legalName>VICE Group Holding Inc.</legalName>
+  <isElimination>false</isElimination>
+  <fiscalCalendar internalId="1">
+    <name>Standard Fiscal Calendar</name>
+  </fiscalCalendar>
+  <taxFiscalCalendar internalId="1">
+    <name>Standard Fiscal Calendar</name>
+  </taxFiscalCalendar>
+  <email>george.xanthopoulos@vice.com</email>
+  <currency internalId="US Dollar"></currency>
+  <edition>US</edition>
+  <federalIdNumber>47-3734250</federalIdNumber>
+  <nexusList>
+    <nexus>
+      <nexusId internalId="1">
+        <name>United States NY</name>
+      </nexusId>
+      <country>US</country>
+    </nexus>
+    <nexus>
+      <nexusId internalId="32">
+        <name>BC</name>
+      </nexusId>
+      <country>CA</country>
+    </nexus>
+    <nexus>
+      <nexusId internalId="33">
+        <name>QC</name>
+      </nexusId>
+      <country>CA</country>
+    </nexus>
+    <nexus>
+      <nexusId internalId="34">
+        <name>ON</name>
+      </nexusId>
+      <country>CA</country>
+    </nexus>
+  </nexusList>
+  <accountingBookDetailList>
+    <subsidiaryAccountingBookDetail>
+      <accountingBook internalId="2">
+        <name>Secondary Book</name>
+      </accountingBook>
+      <currency internalId="1">
+        <name>US Dollar</name>
+      </currency>
+      <bookStatus>_active</bookStatus>
+    </subsidiaryAccountingBookDetail>
+  </accountingBookDetailList>
+  <checkLayout internalId="50">
+    <name>Standard Check Layout</name>
+  </checkLayout>
+  <customFieldList>
+    <customField internalId="1991" scriptId="custrecord_region">
+      <value internalId="1" typeId="261">
+        <name>US</name>
+      </value>
+    </customField>
+    <customField internalId="24" scriptId="custrecord_sub_external_id">
+      <value>1840015</value>
+    </customField>
+  </customFieldList>
+</Subsidiary>
